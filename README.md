@@ -24,7 +24,7 @@ Clasificar automóviles históricos (1970-1982) en dos categorías:
 ## Tecnologías Utilizadas
 
 ### Machine Learning & Data Science
-- Scikit-learn: MLPClassifier para el modelo de red neuronal
+- TensorFlow: MLPClassifier para el modelo de red neuronal
 - Pandas & NumPy: Análisis y manipulación de datos
 - Matplotlib & Seaborn: Visualización de resultados
 - StandardScaler: Normalización de características
@@ -344,7 +344,7 @@ Este proyecto está desarrollado con fines educativos como parte de la formació
 - Documentación oficial de Flask
 - Documentación oficial de AWS EC2
 - Documentación oficial de Docker
-- Scikit-learn: Machine Learning in Python
+- TensorFlow: Machine Learning in Python
 
 ---
 *Proyecto académico desarrollado como demostración de habilidades en Machine Learning, desarrollo web y despliegue en la nube.*
